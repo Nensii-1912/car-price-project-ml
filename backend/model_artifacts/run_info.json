@@ -1,0 +1,17 @@
+{
+  "source_notebook": "mlproject.ipynb",
+  "feature_count": 81,
+  "deployed_model": "Random Forest",
+  "train_rows": 608348,
+  "test_rows": 152087,
+  "generated_at": "2026-09-21T19:33:03.935809+05:30",
+  "available_models": [
+    "Linear Regression",
+    "Lasso",
+    "Ridge",
+    "ElasticNet",
+    "Decision Tree (Tuned)",
+    "Random Forest",
+    "Gradient Boosting"
+  ]
+}

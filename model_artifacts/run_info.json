@@ -1,0 +1,7 @@
+{
+  "source_notebook": "MLProject(3).ipynb",
+  "feature_count": 81,
+  "deployed_model": "Random Forest",
+  "train_rows": 608348,
+  "test_rows": 152087
+}
