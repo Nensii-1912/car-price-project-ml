@@ -153,64 +153,28 @@ const numericRules = {
 ========================================================= */
 
 const fallbackOptions = {
-  Brand: [
-    "Maruti",
-    "Hyundai",
-    "Tata",
-    "Honda",
-    "Toyota",
-    "Mahindra",
-    "Ford",
-    "Volkswagen",
-    "Renault",
-    "Kia",
-    "Nissan",
-    "Skoda",
-    "BMW",
-    "Mercedes",
-    "Audi",
-  ],
+Brand:['Toyota','Hyundai','Mahindra','BMW','Honda','Volkswagen','Audi','Mercedes','Kia','Ford','Nissan','Tata','Skoda',' BMW ',' Kia ',' Ford ',
+ ' Volkswagen ',' Skoda ',' Tata ',' Mercedes ',' Hyundai ',' Audi ',' Honda ',' Nissan ',' Toyota ',' Mahindra '],
 
-  Model: [
-    "Swift",
-    "Baleno",
-    "WagonR",
-    "Alto",
-    "Dzire",
-    "i20",
-    "Creta",
-    "Venue",
-    "Nexon",
-    "Punch",
-    "City",
-    "Amaze",
-    "Fortuner",
-    "XUV500",
-    "Seltos",
-  ],
+  Model: ['Camry','i20','Bolero','X1','Civic','Creta','Taigun','A4','E-Class',
+ 'Seltos' ,'Q5' ,'Figo', 'Sunny' ,'EcoSport' ,'Nexon' ,'Harrier', 'X3' ,'City',
+ 'Endeavour', '3 Series', 'Yaris', 'XUV700', 'Verna' ,'Sonet', 'Magnite',
+ 'Octavia', 'Punch' ,'Kicks', 'Kushaq' ,'Amaze', 'C-Class' ,'Polo' ,'Slavia',
+ 'Carens' ,'Corolla' ,'Scorpio', 'Q3' ,'GLA' ,'Virtus'],
 
-  Fuel_Type: [
-    "Petrol",
-    "Diesel",
-    "CNG",
-    "Electric",
-    "Hybrid",
-    "LPG",
-  ],
+  Fuel_Type: ['Hybrid','Petrol' ,'Diesel', 'CNG' ,'Electric' ,'electrik', ' Diesel'
+, 'PETROL', 'petrol' ,'hybridd' ,'diesel '],
 
   Transmission: [
     "Manual",
-    "Automatic",
-    "AMT",
-    "CVT",
-    "DCT",
+    "Automatic"
   ],
 
   Owner_Type: [
     "First",
     "Second",
     "Third",
-    "Fourth & Above",
+    "Fourth+",
   ],
 
   Color: [
@@ -221,23 +185,9 @@ const fallbackOptions = {
     "Red",
     "Blue",
     "Brown",
-    "Green",
-    "Orange",
-    "Yellow",
-    "Other",
   ],
 
-  City: [
-    "Rajkot",
-    "Ahmedabad",
-    "Bangalore",
-    "Chennai",
-    "Delhi",
-    "Hyderabad",
-    "Kolkata",
-    "Mumbai",
-    "Pune",
-  ],
+  City: ['Chennai','Mumbai' ,'Kolkata' ,'Pune'  ,'Hyderabad', 'Bangalore', 'Delhi','Ahmedabad'],
 };
 
 /* =========================================================
