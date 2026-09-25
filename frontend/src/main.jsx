@@ -153,8 +153,8 @@ const numericRules = {
 ========================================================= */
 
 const fallbackOptions = {
-Brand:['Toyota','Hyundai','Mahindra','BMW','Honda','Volkswagen','Audi','Mercedes','Kia','Ford','Nissan','Tata','Skoda',' BMW ',' Kia ',' Ford ',
- ' Volkswagen ',' Skoda ',' Tata ',' Mercedes ',' Hyundai ',' Audi ',' Honda ',' Nissan ',' Toyota ',' Mahindra '],
+Brand:['Toyota' ,'Hyundai', 'Mahindra', 'BMW', 'Honda', 'Volkswagen' ,'Audi',
+ 'Mercedes', 'Kia', 'Ford' ,'Nissan' ,'Tata', 'Skoda'],
 
   Model: ['Camry','i20','Bolero','X1','Civic','Creta','Taigun','A4','E-Class',
  'Seltos' ,'Q5' ,'Figo', 'Sunny' ,'EcoSport' ,'Nexon' ,'Harrier', 'X3' ,'City',
